@@ -1,1 +1,2 @@
-
+eval `dircolors ~/.dir_colors`
+alias ls="ls --color=auto"
